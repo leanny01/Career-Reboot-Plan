@@ -77,7 +77,3 @@
   - [Action 1]
   - [Action 2]
 TEMPLATE END -->
-
-# Current Progress Log
-
-[My actual progress entries will go here]
