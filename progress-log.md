@@ -1,4 +1,5 @@
-<!-- TEMPLATE START
+<!-- <!-- TEMPLATE START -->
+
 # Weekly Progress Log
 
 [← Back to Career Reboot Plan](README.md)
@@ -95,7 +96,7 @@
 1. [Goal 1]
 2. [Goal 2]
 3. [Goal 3]
-TEMPLATE END -->
+<!-- TEMPLATE END --> -->
 
 # Current Progress Log
 
