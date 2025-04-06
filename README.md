@@ -222,4 +222,3 @@ Even in high-pressure or ambiguous situations, I stay calm, take feedback seriou
 - **Phase 4:** Simulated Client Project
 - **Phase 5:** Review & Consolidation
 - **Accountability:** Mentor + Public Proof
-# Career-Reboot-Plan
