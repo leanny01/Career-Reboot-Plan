@@ -176,7 +176,10 @@ Even in high-pressure or ambiguous situations, I stay calm, take feedback seriou
 
 ### Phase 5 (Week 13) – Review & Consolidation
 
-**Goal:** Reflect, document, and prepare public-facing assets
+**Goal:**
+
+- Reflect, document, and prepare public-facing assets
+- Within 90 days of completing this reboot, apply to become an ADPList mentor and help 3 people avoid the mistakes I made
 
 **Timeline:** June 1–7
 
