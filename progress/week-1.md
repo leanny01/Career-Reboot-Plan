@@ -12,7 +12,7 @@
 | ---------------------------------------- | ---------------------------------------- | ------ |
 | Set up GitHub repo and CI/CD pipeline    | Basic CI/CD pipeline with GitHub Actions | ✅     |
 | Build local storage version of task CRUD | Basic CRUD operations with localStorage  | 🟡     |
-| Build responsive UI                      | Initial UI with Tailwind CSS             | 🟡     |
+| Build responsive UI                      | Initial UI with Styled Components        | 🟡     |
 
 ### ⏱️ Time Tracking
 
