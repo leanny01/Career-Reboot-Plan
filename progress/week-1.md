@@ -16,11 +16,11 @@
 
 ### ⏱️ Time Tracking
 
-| Feature            | Estimated | Actual | Notes                |
-| ------------------ | --------- | ------ | -------------------- |
-| CI/CD setup        | 3 hrs     | 2 hrs  | Reused Vercel config |
-| Offline task CRUD  | 6 hrs     | 4 hrs  | In progress          |
-| Responsive styling | 4 hrs     | 2 hrs  | In progress          |
+| Feature            | Estimated | Actual | Notes |
+| ------------------ | --------- | ------ | ----- |
+| CI/CD setup        | 3 hrs     | - hrs  | -     |
+| Offline task CRUD  | 6 hrs     | - hrs  | -     |
+| Responsive styling | 4 hrs     | - hrs  | -     |
 
 ### 🐞 Issues & Solutions
 
@@ -31,10 +31,10 @@
 
 ### 📊 Key Metrics
 
-- Commits: 12
-- Deployments: 3
-- Tests Passed: 85%
-- Code Coverage: 70%
+- Commits: 0
+- Deployments: 0
+- Tests Passed: 0%
+- Code Coverage: 0%
 
 ### 📘 Learnings & Insights
 
