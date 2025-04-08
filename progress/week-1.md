@@ -11,23 +11,23 @@
 | Planned                                  | Delivered                                | Status |
 | ---------------------------------------- | ---------------------------------------- | ------ |
 | Set up GitHub repo and CI/CD pipeline    | Basic CI/CD pipeline with GitHub Actions | ✅     |
-| Build local storage version of task CRUD | Basic CRUD operations with localStorage  | 🟡     |
-| Build responsive UI                      | Initial UI with Styled Components        | 🟡     |
+| Build local storage version of task CRUD | Basic CRUD operations with localStorage  | ✅     |
+| Build responsive UI                      | Initial UI with Styled Components        | ✅     |
 
 ### ⏱️ Time Tracking
 
-| Feature            | Estimated | Actual | Notes |
-| ------------------ | --------- | ------ | ----- |
-| CI/CD setup        | 3 hrs     | - hrs  | -     |
-| Offline task CRUD  | 6 hrs     | - hrs  | -     |
-| Responsive styling | 4 hrs     | - hrs  | -     |
+| Feature            | Estimated | Actual  | Notes                                                                                                                |
+| ------------------ | --------- | ------- | -------------------------------------------------------------------------------------------------------------------- |
+| CI/CD setup        | 3 hrs     | 2.2 hrs | I lost time thinking about where to deploy the frontend while thinking about accommodating backend future deployment |
+| Offline task CRUD  | 6 hrs     | 3 hrs   | I lost time refactoring the feature architecture                                                                     |
+| Responsive styling | 4 hrs     | 1 hrs   | All went well over here                                                                                              |
 
 ### 🐞 Issues & Solutions
 
 - **Issue:** State management with localStorage
   - **Solution:** Implementing Redux for better state management
   - **Impact:** Delayed CRUD completion
-  - **Prevention:** Plan state management strategy before implementation
+  - **Prevention:** Plan state management strategy, architecture, deployment strategies research before implementation
 
 ### 📊 Key Metrics
 
