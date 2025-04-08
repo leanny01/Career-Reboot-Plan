@@ -19,7 +19,7 @@
 | Feature            | Estimated | Actual  | Notes                                                                                                                |
 | ------------------ | --------- | ------- | -------------------------------------------------------------------------------------------------------------------- |
 | CI/CD setup        | 3 hrs     | 2.2 hrs | I lost time thinking about where to deploy the frontend while thinking about accommodating backend future deployment |
-| Offline task CRUD  | 6 hrs     | 3 hrs   | I lost time refactoring the feature architecture                                                                     |
+| Offline task CRUD  | 6 hrs     | 4 hrs   | I lost time refactoring the feature architecture                                                                     |
 | Responsive styling | 4 hrs     | 1 hrs   | All went well over here                                                                                              |
 
 ### 🐞 Issues & Solutions
