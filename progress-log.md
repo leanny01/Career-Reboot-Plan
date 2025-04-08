@@ -6,7 +6,7 @@
 
 | Week   | Date Range | Status         | Link                               |
 | ------ | ---------- | -------------- | ---------------------------------- |
-| Week 1 | Apr 7-13   | 🟡 In Progress | [View Details](progress/week-1.md) |
+| Week 1 | Apr 7-13   | ✅ Completed   | [View Details](progress/week-1.md) |
 | Week 2 | Apr 14-20  | ⚪ Not Started | [View Details](progress/week-2.md) |
 | Week 3 | Apr 21-27  | ⚪ Not Started | [View Details](progress/week-3.md) |
 
