@@ -63,7 +63,7 @@ Even in high-pressure or ambiguous situations, I stay calm, take feedback seriou
 
 #### Milestones:
 
-- **Milestone 1 (Apr 7–11):**
+- [**Milestone 1 (Apr 7–11):**](https://github.com/leanny01/task-manager/releases/tag/week1-snapshot)
   - CI/CD pipeline setup
   - Offline task management across devices
 - **Milestone 2 (Apr 14–18):**
@@ -219,7 +219,7 @@ Even in high-pressure or ambiguous situations, I stay calm, take feedback seriou
 
 ## Summary
 
-- **Phase 1:** Foundation – Speed & Delivery
+- **Phase 1:** [Foundation – Speed & Delivery](https://github.com/leanny01/task-manager/releases/tag/week1-snapshot)
 - **Phase 2:** Systems Thinking
 - **Phase 3:** Refactor & Debug
 - **Phase 4:** Simulated Client Project
