@@ -1,64 +1,59 @@
-# Week 1 Progress (Apr 7-13)
+# Week 1 Summary (Apr 7–13)
+
+**Project:** Task Manager App
 
 [← Back to Progress Tracker](../progress-log.md)
 
-## Project: Task Manager App (Phase 1)
+## Time Tracking
 
-**Goal:** Complete Milestone 1 — CI/CD + local task management
+| Task                      | Est. Time | Actual Time | Notes                                        |
+| ------------------------- | --------- | ----------- | -------------------------------------------- |
+| CI/CD setup               | 3 hrs     | 2.2 hrs     | Lost time thinking about deployment strategy |
+| Task CRUD w/ localStorage | 6 hrs     | 4 hrs       | Lost time refactoring architecture           |
+| Responsive styling        | 4 hrs     | 1 hr        | All went well                                |
 
-### ✅ Planned vs. Delivered
+## Deliverables
 
-| Planned                                  | Delivered                                | Status |
-| ---------------------------------------- | ---------------------------------------- | ------ |
-| Set up GitHub repo and CI/CD pipeline    | Basic CI/CD pipeline with GitHub Actions | ✅     |
-| Build local storage version of task CRUD | Basic CRUD operations with localStorage  | ✅     |
-| Build responsive UI                      | Initial UI with Styled Components        | ✅     |
+| Planned         | Delivered                          | Status |
+| --------------- | ---------------------------------- | ------ |
+| CI/CD pipeline  | Basic setup with GitHub Actions    | ✅     |
+| Local task CRUD | Basic operations with localStorage | ✅     |
+| Responsive UI   | Initial UI with Styled Components  | ✅     |
 
-### ⏱️ Time Tracking
-
-| Feature            | Estimated | Actual  | Notes                                                                                                                |
-| ------------------ | --------- | ------- | -------------------------------------------------------------------------------------------------------------------- |
-| CI/CD setup        | 3 hrs     | 2.2 hrs | I lost time thinking about where to deploy the frontend while thinking about accommodating backend future deployment |
-| Offline task CRUD  | 6 hrs     | 4 hrs   | I lost time refactoring the feature architecture                                                                     |
-| Responsive styling | 4 hrs     | 1 hrs   | All went well over here                                                                                              |
-
-### 🐞 Issues & Solutions
+## Issues & Solutions
 
 - **Issue:** State management with localStorage
-  - **Solution:** Implementing Redux for better state management
+  - **Solution:** Implementing Redux
   - **Impact:** Delayed CRUD completion
-  - **Prevention:** Plan state management strategy, architecture, deployment strategies research before implementation
+  - **Prevention:** Plan architecture and deployment strategies before implementation
 
-### 📊 Key Metrics
+## Key Metrics
 
 - Commits: 0
 - Deployments: 0
-- Tests Passed: 0%
-- Code Coverage: 0%
+- Tests: 0%
+- Coverage: 0%
 
-### 📘 Learnings & Insights
+## Learnings
 
 - **Technical:**
-  - Better understanding of GitHub Actions workflows
+  - Better understanding of GitHub Actions
   - Improved state management patterns
 - **Process:**
-  - Need to allocate more time for setup tasks
-  - Daily standup notes help track progress
+  - Need clearer time-boxing
+  - Architecture planning is crucial
 
-### 🎯 Next Week's Focus
+## Next Week
 
-1. Complete remaining CRUD operations
-2. Implement responsive design
-3. Add unit tests for core functionality
+1. Complete Google Calendar integration
+2. Add task nesting feature
+3. Implement testing framework
 
-### 🔄 Process Adjustments
+## Adjustments
 
-- **What worked well:**
+- **What worked:**
   - Daily progress tracking
   - CI/CD setup process
 - **What needs improvement:**
   - Time estimation accuracy
-  - State management planning
-- **Action items for next week:**
-  - Review state management patterns
-  - Set up testing framework
+  - Architecture planning
