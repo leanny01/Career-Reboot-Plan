@@ -1,6 +1,6 @@
 # Career Reboot Plan
 
-This is a 90-day rebuild plan designed to transition me from an underperforming developer to a high-confidence, end-to-end system builder. It's structured around real-world delivery simulations, aggressive feedback loops, and public accountability.
+This is a 90-day full-stack rebuild program to master system design, speed, and end-to-end execution. I am a self-taught developer with 3 years of experience. I am looking to transition into a full-stack role.
 
 **Goal:** Prove that I can scope, architect, and ship maintainable systems across web, mobile (React Native in Phase 4+), and APIs.
 
