@@ -45,9 +45,8 @@
 
 ## Next Week
 
-1. Complete Google Calendar integration
-2. Add task nesting feature
-3. Implement testing framework
+1. Complete Google Calendar integration (Stub)
+2. Add task nesting feature (Project)
 
 ## Adjustments
 
@@ -56,4 +55,5 @@
   - CI/CD setup process
 - **What needs improvement:**
   - Time estimation accuracy
-  - Architecture planning
+  - Architecture planning for future features
+  - Live Netlify and Task nesting needs iteration

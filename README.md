@@ -1,5 +1,7 @@
 # Career Reboot Plan
 
+After facing structured setbacks in traditional company systems, I committed to a self-driven transformation: rebuilding my full-stack execution capabilities from the ground up. I now deliver complete systems across web, mobile, and APIs — scoping, estimating, and shipping reliably under real-world constraints. I no longer depend on external validation. I measure my own progress through consistent deliverables and public accountability.
+
 This is a 90-day full-stack rebuild program to master system design, speed, and end-to-end execution. I am a self-taught developer with 3 years of experience. I am looking to transition into a full-stack role.
 
 **Goal:** Prove that I can scope, architect, and ship maintainable systems across web, mobile (React Native in Phase 4+), and APIs.
